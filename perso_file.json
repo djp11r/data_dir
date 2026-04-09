@@ -1,23 +1,15 @@
 [{
-"name": "infinite_udata",
+"name": "Custom user setting file",
 "section": "custom",
-"url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/infinite_udata.zip",
+"url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/etc/custom_userdata.zip",
 "icon": "http://i.imgur.com/qwcRj6e.png",
 "fanart": "http://i.imgur.com/rd7dgNv.jpg",
 "adult": "no",
-"description": "infinite_udata"
+"description": "Custom skins shortcut . "
 }, {
-"name": "Custom source xmlfile",
+"name": "personal lists db file",
 "section": "custom",
-"url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/sourcexml_custom.zip",
-"icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": "custom Menu"
-}, {
-"name": "live tv fix for infinite",
-"section": "custom",
-"url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/mod_addons.zip",
+"url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/personal_lists.zip",
 "icon": "http://i.imgur.com/qwcRj6e.png",
 "fanart": "http://i.imgur.com/rd7dgNv.jpg",
 "adult": "no",
@@ -38,14 +30,6 @@
 "fanart": "http://i.imgur.com/rd7dgNv.jpg",
 "adult": "no",
 "description": "user setting for fen"
-}, {
-"name": "Custom user setting file",
-"section": "custom",
-"url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/custom_userdata.zip",
-"icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": "Custom skins shortcut . "
 }, {
 "name": "All repo files",
 "section": "custom",
