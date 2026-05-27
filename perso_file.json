@@ -3,80 +3,50 @@
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/etc/custom_userdata.zip",
 "icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": "Custom skins shortcut . "
 }, {
 "name": "personal lists db file",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/personal_lists.zip",
 "icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": "custom Menu"
 }, {
 "name": "Meta db file",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/metacache.db",
 "icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": "custom Menu"
 }, {
 "name": "user setting for fen",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/fen_ud.zip",
 "icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": "user setting for fen"
 }, {
 "name": "All repo files",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/all_repo.zip",
 "icon": "http://i.imgur.com/qwcRj6e.png",
-"fanart": "http://i.imgur.com/rd7dgNv.jpg",
-"adult": "no",
-"description": " repo files. "
 }, {
 "name": "Amazon Fire TV keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/ATV_keymap.zip",
 "icon": "None",
-"fanart": "None",
-"adult": "no",
-"description": "Custom keymap file"
 }, {
 "name": "Amazon Volume keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/firetv_volum_keymap.zip",
 "icon": "None",
-"fanart": "None",
-"adult": "no",
-"description": "Custom keymap file"
 }, {
 "name": "Boxee keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/boxee_keymap.zip",
 "icon": "None",
-"fanart": "None",
-"adult": "no",
-"description": "Custom keymap file"
 }, {
 "name": "SMS keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/sms_keymap.zip",
 "icon": "None",
-"fanart": "None",
-"adult": "no",
-"description": "Custom keymap file"
 }, {
 "name": "Touch keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/touch_keymap.zip",
 "icon": "None",
-"fanart": "None",
-"adult": "no",
-"description": "Custom keymap file"
 }
 ]
