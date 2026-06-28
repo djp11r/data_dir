@@ -2,51 +2,51 @@
 "name": "Custom user setting file",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/etc/custom_userdata.zip",
-"icon": "http://i.imgur.com/qwcRj6e.png",
+"icon": "http://i.imgur.com/qwcRj6e.png"
 }, {
 "name": "personal lists db file",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/personal_lists.zip",
-"icon": "http://i.imgur.com/qwcRj6e.png",
+"icon": "http://i.imgur.com/qwcRj6e.png"
 }, {
 "name": "Meta db file",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/metacache.db",
-"icon": "http://i.imgur.com/qwcRj6e.png",
+"icon": "http://i.imgur.com/qwcRj6e.png"
 }, {
 "name": "user setting for fen",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/fen_ud.zip",
-"icon": "http://i.imgur.com/qwcRj6e.png",
+"icon": "http://i.imgur.com/qwcRj6e.png"
 }, {
 "name": "All repo files",
 "section": "custom",
 "url": "https://raw.githubusercontent.com/djp11r/repo_n/mayb/etc/all_repo.zip",
-"icon": "http://i.imgur.com/qwcRj6e.png",
+"icon": "http://i.imgur.com/qwcRj6e.png"
 }, {
 "name": "Amazon Fire TV keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/ATV_keymap.zip",
-"icon": "None",
+"icon": "None"
 }, {
 "name": "Amazon Volume keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/firetv_volum_keymap.zip",
-"icon": "None",
+"icon": "None"
 }, {
 "name": "Boxee keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/boxee_keymap.zip",
-"icon": "None",
+"icon": "None"
 }, {
 "name": "SMS keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/sms_keymap.zip",
-"icon": "None",
+"icon": "None"
 }, {
 "name": "Touch keymap",
 "section": "keymap",
 "url": "https://3529101968.000webhostapp.com/Repo/wiz_files/kmaps/touch_keymap.zip",
-"icon": "None",
+"icon": "None"
 }
 ]

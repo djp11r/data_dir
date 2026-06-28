@@ -1,36 +1,23 @@
 {
-	"builds": [
-		{
-			"name": "ATV build",
-			"version": "1.0",
-			"url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/slamx19.zip",
-			"icon": "https://i.imgur.com/DH7rRx6.png",
-			"fanart": "https://i.imgur.com/DH7rRx6.png",
-			"description": "ATV build"
-		},
-		{
-			"name": "ATV Data",
-			"version": "1.0",
-			"url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/testbuild.zip",
-			"icon": "https://i.imgur.com/nlN4mrM.png",
-			"fanart": "https://i.imgur.com/nlN4mrM.png",
-			"description": "Dummy ATV Data for testing purposes."
-		},
-		{
-			"name": "kodi_22_ build",
-			"version": "1.0",
-			"url": "https://raw.githubusercontent.com/djp11r/kbu/mayb/kodi_22_backup.zip",
-			"icon": "https://i.imgur.com/DH7rRx6.png",
-			"fanart": "https://i.imgur.com/DH7rRx6.png",
-			"description": "kodi_22_ build"
-		},
-		{
-			"name": "kodi_22_userdata",
-			"version": "1.0",
-			"url": "https://raw.githubusercontent.com/djp11r/kbu/mayb/kodi_22_userdata.zip",
-			"icon": "https://i.imgur.com/nlN4mrM.png",
-			"fanart": "https://i.imgur.com/nlN4mrM.png",
-			"description": "kodi 22 userdata for testing purposes."
-		}
-	]
-}
+"builds": [
+{
+"name": "ATV build",
+"version": "1.0",
+"url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/slamx19.zip",
+"icon": "https://i.imgur.com/DH7rRx6.png"
+},{
+"name": "ATV Data",
+"version": "1.0",
+"url": "https://raw.githubusercontent.com/djp11r/data_dir/mayb/testbuild.zip",
+"icon": "https://i.imgur.com/nlN4mrM.png"
+},{
+"name": "kodi_22_ build",
+"version": "1.0",
+"url": "https://raw.githubusercontent.com/djp11r/kbu/mayb/kodi_22_backup.zip",
+"icon": "https://i.imgur.com/DH7rRx6.png"
+},{
+"name": "kodi_22_userdata",
+"version": "1.0",
+"url": "https://raw.githubusercontent.com/djp11r/kbu/mayb/kodi_22_userdata.zip",
+"icon": "https://i.imgur.com/nlN4mrM.png"
+}]}
